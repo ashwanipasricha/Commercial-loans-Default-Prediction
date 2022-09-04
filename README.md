@@ -5,15 +5,7 @@ Case Study - Commercial loans Default Prediction
 
 A commercial lending bank wants to identify obligers/customers who are at risk of defaulting on their loans in next 1 year. They are providing you with ~5000 customer’s financial data for past few years which includes ~200 companies that defaulted.
 
-Along with the target variable, which talks about whether the customer has defaulted or not, there are other variables (predictor) like:
-
-Variable													Description
-afterTaxInterestRate	After Tax Interest Rate
-taxRate														Tax Rate
-netValuePerShare					Net Value Per share
-revenuePerShare						Revenue Per share
-currentRatio									Current ratio (Current assets / current liabilities)
-quickRatio											(Current Assets - Inventory)/ current liabilities
+Along with the target variable, which talks about whether the customer has defaulted or not, there are other variables (predictor) like afterTaxInterestRate, taxRate, netValuePerShare, revenuePerShare etc
 
 For more information, refer to file Tag_Description. 
 
