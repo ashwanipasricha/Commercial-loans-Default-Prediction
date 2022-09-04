@@ -7,13 +7,13 @@ A commercial lending bank wants to identify obligers/customers who are at risk o
 
 Along with the target variable, which talks about whether the customer has defaulted or not, there are other variables (predictor) like:
 
-Variable				Description
+Variable													Description
 afterTaxInterestRate	After Tax Interest Rate
-taxRate					Tax Rate
-netValuePerShare		Net Value Per share
-revenuePerShare			Revenue Per share
-currentRatio			Current ratio (Current assets / current liabilities)
-quickRatio				(Current Assets - Inventory)/ current liabilities
+taxRate														Tax Rate
+netValuePerShare					Net Value Per share
+revenuePerShare						Revenue Per share
+currentRatio									Current ratio (Current assets / current liabilities)
+quickRatio											(Current Assets - Inventory)/ current liabilities
 
 For more information, refer to file Tag_Description. 
 
