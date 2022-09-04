@@ -1,7 +1,4 @@
-# Case_study
- This case study was given as a part of one of the hiring process.
-
-Case Study - Commercial loans Default Prediction
+# Commercial loans Default Prediction
 
 A commercial lending bank wants to identify obligers/customers who are at risk of defaulting on their loans in next 1 year. They are providing you with ~5000 customer’s financial data for past few years which includes ~200 companies that defaulted.
 
@@ -9,7 +6,7 @@ Along with the target variable, which talks about whether the customer has defau
 
 For more information, refer to file Tag_Description. 
 
-Solution:
+# Solution:
 
 I have followed this process to find the solution:
 
